@@ -1,4 +1,2 @@
 hoge
-piyo
-fuga
 hoho
